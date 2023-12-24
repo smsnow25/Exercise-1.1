@@ -1,4 +1,4 @@
-/* 1.1 Write a program that displays Welcome to C++, Welcome to Computer Science, and Programming is fun */
+/*  1.2 Write a program that displays Welcome to C++ five times. */
 
 #include <iostream>
 using namespace std;
@@ -6,8 +6,10 @@ using namespace std;
 int main()
 {
     cout << "Welcome to C++" << endl;
-    cout << "Welcome to Computer Science" << endl;
-    cout << "Programming is fun" << endl;
+    cout << "Welcome to C++" << endl;
+    cout << "Welcome to C++" << endl;
+    cout << "Welcome to C++" << endl;
+    cout << "Welcome to C++" << endl;
     
     return 0;
 }
